@@ -1,5 +1,5 @@
-name: connectors-salesforce
+name: salesforce-connector
 title: Salesforce Connector
-version: '9.4'
+version: '9.3'
 nav:
 - modules/ROOT/nav.adoc
