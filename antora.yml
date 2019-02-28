@@ -1,4 +1,4 @@
-name: connectors-salesforce
+name: salesforce-connector
 title: Salesforce Connector
 version: '9.5'
 nav:
