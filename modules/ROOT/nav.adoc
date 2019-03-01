@@ -1,3 +1,2 @@
-.xref:index.adoc[Salesforce Connector (for Mule 4)]
 * xref:overview.adoc[Overview]
 * xref:reference.adoc[Reference]
